@@ -1,0 +1,39 @@
+{
+  "name": "soon-generator",
+  "version": "1.0.0",
+  "description": "An Boilerplate for start my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gulp",
+    "new-post": "soon-generator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andersonweb/soon-jekyll-generator.git"
+  },
+  "keywords": [
+    "one",
+    "two"
+  ],
+  "author": "Anderson Menezes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersonweb/soon-jekyll-generator/issues"
+  },
+  "homepage": "https://github.com/andersonweb/soon-jekyll-generator",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1"
+  },
+  "dependencies": {
+    "freetime-cli": "^0.1.4"
+  }
+}

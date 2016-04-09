@@ -1,0 +1,21 @@
+# Site settings
+title: Soon Generator  
+email: user@email.com
+description: Description
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+# Build settings
+source:      .
+destination: ./_site
+plugins_dir:     ./_plugins
+layouts_dir:     ./_layouts
+data_dir: ./_data
+collections: null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+#Compress HTML
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: true
