@@ -59,11 +59,12 @@ name_project
 ├── pages
 │   └── page.md
 │── src
-│    ├── css
-│    │   └── main.css
 │    ├── fonts
-│    ├── image
-│    └── js
+|    │   └── OpenSans-Regular.ttf
+|    ├── image
+|    │   └── qualy.png
+|    └── js
+|        └── test.js
 ├── _config.yml
 ├── feed.xml
 ├── gulpfile.js
