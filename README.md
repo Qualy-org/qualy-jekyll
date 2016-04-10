@@ -8,7 +8,7 @@
 #### Using
 ```sh
 # Clone repository
-$ git@github.com:andersonweb/soon-generator.git name_project
+$ git@github.com:Qualy-org/soon-jekyll-generator.git
 $ cd name_project
 
 # Install dependencies
