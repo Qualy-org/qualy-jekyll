@@ -1,5 +1,3 @@
-An Boilerplate for start my projects
-
 ## Getting Starter
 
 **Requires:**
